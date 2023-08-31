@@ -1,0 +1,16 @@
+header {
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: grey;
+height: 100px;
+}
+
+header nav a {
+    margin: 10px;
+}
+
+.random-image {
+    height: 200px;
+    width: 100%;
+}
